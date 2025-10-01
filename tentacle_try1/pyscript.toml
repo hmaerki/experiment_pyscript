@@ -1,8 +1,8 @@
 name = "Pyscript Experiment"
 description = "Pyscript Experiment"
 packages = [
-    "panel==1.7.5",
-    "bokeh==3.6.3",
+    "panel==1.8.1",
+    "bokeh==3.8.0",
 ]
 
 [files]
