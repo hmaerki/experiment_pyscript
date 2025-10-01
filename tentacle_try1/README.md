@@ -1,0 +1,1 @@
+https://pyscript.com/@examples/simple-panel
